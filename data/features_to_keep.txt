@@ -1,0 +1,123 @@
+  0	has_null                       	 n
+  1	wave                           	 y
+  2	gender                         	 y
+  3	age                            	 y
+  4	age_o                          	 y
+  5	d_age                          	 y
+  6	d_d_age                        	 n
+  7	race                           	 y
+  8	race_o                         	 y
+  9	samerace                       	 y
+ 10	importance_same_race           	 y
+ 11	importance_same_religion       	 y
+ 12	d_importance_same_race         	 n
+ 13	d_importance_same_religion     	 n
+ 14	field                          	 y
+ 15	pref_o_attractive              	 y
+ 16	pref_o_sincere                 	 y
+ 17	pref_o_intelligence            	 y
+ 18	pref_o_funny                   	 y
+ 19	pref_o_ambitious               	 y
+ 20	pref_o_shared_interests        	 y
+ 21	d_pref_o_attractive            	 n
+ 22	d_pref_o_sincere               	 n
+ 23	d_pref_o_intelligence          	 n
+ 24	d_pref_o_funny                 	 n
+ 25	d_pref_o_ambitious             	 n
+ 26	d_pref_o_shared_interests      	 n
+ 27	attractive_o                   	 n
+ 28	sinsere_o                      	 n
+ 29	intelligence_o                 	 n
+ 30	funny_o                        	 n
+ 31	ambitous_o                     	 n
+ 32	shared_interests_o             	 n
+ 33	d_attractive_o                 	 n
+ 34	d_sinsere_o                    	 n
+ 35	d_intelligence_o               	 n
+ 36	d_funny_o                      	 n
+ 37	d_ambitous_o                   	 n
+ 38	d_shared_interests_o           	 n
+ 39	attractive_important           	 y
+ 40	sincere_important              	 y
+ 41	intellicence_important         	 y
+ 42	funny_important                	 y
+ 43	ambtition_important            	 y
+ 44	shared_interests_important     	 y
+ 45	d_attractive_important         	 n
+ 46	d_sincere_important            	 n
+ 47	d_intellicence_important       	 n
+ 48	d_funny_important              	 n
+ 49	d_ambtition_important          	 n
+ 50	d_shared_interests_important   	 n
+ 51	attractive                     	 y
+ 52	sincere                        	 y
+ 53	intelligence                   	 y
+ 54	funny                          	 y
+ 55	ambition                       	 y
+ 56	d_attractive                   	 n
+ 57	d_sincere                      	 n
+ 58	d_intelligence                 	 n
+ 59	d_funny                        	 n
+ 60	d_ambition                     	 n
+ 61	attractive_partner             	 n
+ 62	sincere_partner                	 n
+ 63	intelligence_partner           	 n
+ 64	funny_partner                  	 n
+ 65	ambition_partner               	 n
+ 66	shared_interests_partner       	 n
+ 67	d_attractive_partner           	 n
+ 68	d_sincere_partner              	 n
+ 69	d_intelligence_partner         	 n
+ 70	d_funny_partner                	 n
+ 71	d_ambition_partner             	 n
+ 72	d_shared_interests_partner     	 n
+ 73	sports                         	 y
+ 74	tvsports                       	 y
+ 75	exercise                       	 y
+ 76	dining                         	 y
+ 77	museums                        	 y
+ 78	art                            	 y
+ 79	hiking                         	 y
+ 80	gaming                         	 y
+ 81	clubbing                       	 y
+ 82	reading                        	 y
+ 83	tv                             	 y
+ 84	theater                        	 y
+ 85	movies                         	 y
+ 86	concerts                       	 y
+ 87	music                          	 y
+ 88	shopping                       	 y
+ 89	yoga                           	 y
+ 90	d_sports                       	 n
+ 91	d_tvsports                     	 n
+ 92	d_exercise                     	 n
+ 93	d_dining                       	 n
+ 94	d_museums                      	 n
+ 95	d_art                          	 n
+ 96	d_hiking                       	 n
+ 97	d_gaming                       	 n
+ 98	d_clubbing                     	 n
+ 99	d_reading                      	 n
+100	d_tv                           	 n
+101	d_theater                      	 n
+102	d_movies                       	 n
+103	d_concerts                     	 n
+104	d_music                        	 n
+105	d_shopping                     	 n
+106	d_yoga                         	 n
+107	interests_correlate            	 y
+108	d_interests_correlate          	 n
+109	expected_happy_with_sd_people  	 y
+110	expected_num_interested_in_me  	 y
+111	expected_num_matches           	 n
+112	d_expected_happy_with_sd_people	 n
+113	d_expected_num_interested_in_me	 n
+114	d_expected_num_matches         	 n
+115	like                           	 n
+116	guess_prob_liked               	 n
+117	d_like                         	 n
+118	d_guess_prob_liked             	 n
+119	met                            	 n
+120	decision                       	 y
+121	decision_o                     	 n
+122	match                          	 n
